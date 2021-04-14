@@ -12,5 +12,8 @@ This contains the python notebook which has the main code of our project with a 
 #### Stackoverflow language Prediction-Presentation
 This contains the presentation that we made for presentng our project.
 
+#### tokenizer_with_title.pkl & tokenizer_with_title.pkl
+These are tokenizer object file that can be directly used for faster Prediction.
+
 
 
